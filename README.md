@@ -9,3 +9,5 @@ The homework requirements for Java elementary school coursework are as follows:
 5. Pay and score after the service is completed.
 
 On this basis, I added a backup function, automatic backup function (not perfect) and some other functions.
+
+For detailed database design, please restore by yourself according to sql backup records
