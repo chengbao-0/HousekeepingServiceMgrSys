@@ -1,6 +1,8 @@
 # HousekeepingServiceMgrSys
 This is a simple project for housekeeping service companies to manage the employment information of members and housekeeping staff.
 
+Developed by Java+Mysql(jdbc)
+
 The homework requirements for Java elementary school coursework are as follows:
 1. Able to realize the division of labor management of domestic staff (health care, maintenance, nanny, nursing, etc.).
 2. And realize the work time management of housekeeping staff.
